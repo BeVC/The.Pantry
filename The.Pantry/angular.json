@@ -123,5 +123,10 @@
       }
     }
   },
-  "defaultProject": "the-pantry"
+  "defaultProject": "the-pantry",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "scss"
+    }
+  }
 }

@@ -1,0 +1,13 @@
+@import "../../styles.scss";
+
+.app-not-found {
+    @include component();
+    @include page();
+
+    div{
+    text-align: center;
+    position: relative;
+    top: calc(50vh - 37px);
+    }
+
+}
