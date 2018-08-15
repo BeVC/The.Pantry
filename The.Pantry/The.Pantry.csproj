@@ -8,6 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="src\app\core\" />
+    <Folder Include="src\app\shared\models\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
